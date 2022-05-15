@@ -1,4 +1,4 @@
-package sec05;
+package sec05.exam01;
 
 public class Car {
     // 필드
